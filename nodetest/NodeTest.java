@@ -10,7 +10,8 @@ public class NodeTest {
         list.addList(21);
         list.addList(7);
         list.addList(23);
-
+        list.removeFirst();
+        list.middleadd(2, 34);
     
        list.PrintNode(); //printNode 공부하기
     }
